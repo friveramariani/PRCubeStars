@@ -13,7 +13,8 @@ We are a multidisciplinary team of *scientists, engineers, computer scientists, 
 	- Information about the PRCubeStars Team members
 	- Our Stars
 	- Mentors
-- News and Updates
+- [Click here for PRCubeStars images of different events](https://friveramariani.github.io/PRCubeStars/images)
+- [Click here for PRCubestars news and updates](https://friveramariani.github.io/PRCubeStars/updates)
 
 ### Projects
 
@@ -43,9 +44,6 @@ Fungal spores, which are known to pose human respiratory health risks (e.g. resp
 - **arlos Rodriguez**, *Computer Science Specialist* (computer science expert and member of [Makerspace Puerto Rico](https://www.facebook.com/Makerspacepr/?fref=ts))
 - **Carmen Noble**, *Physics Teacher* (physics teacher at the Science and Math Specialized School Thomas Armstrong Toro, Ponce PR)
 
-### News and Updates
-
-- (April 30th, 2017) *Altimeter Sensor Testing of the CubeSat* (click [here to view the video of the experiment](https://www.youtube.com/watch?v=0UYQ0fL8KiQ)) 
 
 
 *Copyright 2017 PRCubeStars*
