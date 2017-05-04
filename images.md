@@ -2,6 +2,8 @@
 title: PRCubeStars Images
 ---
 
+## PRCubeStars Images
+
 (April 2nd, 2016) - *PRCubeStars presentation at the University of Puerto Rico - Mayagüez campus*
 <img src="Images/Presentation-PRCubeStars-1.jpg" alt="hi" class="inline"/>
 
