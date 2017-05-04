@@ -37,7 +37,7 @@ Fungal spores, which are known to pose human respiratory health risks (e.g. resp
 ###### Mentors
 
 - **Félix E. Rivera-Mariani, PhD**, *Principal Investigator* (click [here for Dr. Rivera-Mariani's bio](http://friveram.com/))
-- **Yajaira Sierra-Sastre, PhD**, *Mission Director* (click [here for Dr Sierra-Sastre's bio](https://en.wikipedia.org/wiki/Yajaira_Sierra_Sastre))
+- **Yajaira Sierra-Sastre, PhD**, *Mission Director* (click [here for Dr. Sierra-Sastre's bio](https://en.wikipedia.org/wiki/Yajaira_Sierra_Sastre))
 - **Daron Westly**, *Mission Specialist* (BS and MS degrees in Electrical Engineering from the University of South Florida and Cornell University, respectively)
 - **Damaso Cardenales**, *Computer Science Specialist* (computer science expert and member of [Makerspace Puerto Rico](https://www.facebook.com/Makerspacepr/?fref=ts))
 - **arlos Rodriguez**, *Computer Science Specialist* (computer science expert and member of [Makerspace Puerto Rico](https://www.facebook.com/Makerspacepr/?fref=ts))
