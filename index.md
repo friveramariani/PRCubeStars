@@ -10,9 +10,9 @@ We are a multidisciplinary team of *scientists, engineers, computer scientists, 
 
 1. Projects
 1. Members
-   a. Information about the PRCubeStars Team members
-   b. Our Stars
-   c. Mentors
+   1. Information about the PRCubeStars Team members
+   1. Our Stars
+   1. Mentors
 1. News and Updates
 
 ### Projects
