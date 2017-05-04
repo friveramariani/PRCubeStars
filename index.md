@@ -45,7 +45,7 @@ Fungal spores, which are known to pose human respiratory health risks (e.g. resp
 
 ### News and Updates
 
-- (April 30th, 2017) May Altimeter Sensor Testing of the CubeSat (click [here to view the video of the experiment](https://www.youtube.com/watch?v=0UYQ0fL8KiQ)) 
+- (April 30th, 2017) *Altimeter Sensor Testing of the CubeSat* (click [here to view the video of the experiment](https://www.youtube.com/watch?v=0UYQ0fL8KiQ)) 
 
 
 *Copyright 2017 PRCubeStars*
