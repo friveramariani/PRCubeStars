@@ -21,4 +21,4 @@ title: PRCubeStars Images
 <img src="Images/IMG-2166.JPG" alt="hi" class="inline"/>
 
 
-[Click here to return to the PRCubeStars main](https://friveramariani.github.io/PRCubeStars/)
+[Click here to return to the PRCubeStars main page](https://friveramariani.github.io/PRCubeStars/)
