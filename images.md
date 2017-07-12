@@ -21,4 +21,7 @@ title: PRCubeStars Images
 <img src="Images/IMG-2166.JPG" alt="hi" class="inline"/>
 
 
-[Click here to return to the PRCubeStars main page](https://friveramariani.github.io/PRCubeStars/)
+(June 2017) - *High School Graduation of Dariel Torres, one of our students in the CubeStars Team*
+<img src="Images/Dariel-Graduation.jpg" alt="hi" class="inline"/>
+
+[Click here to return to the PRCubeStars main](https://friveramariani.github.io/PRCubeStars/)
