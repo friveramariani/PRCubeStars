@@ -8,7 +8,7 @@ title: News and Updates
 [<img src="Images/Perlan-Project-Glider.jpg" alt="hi" class="inline"/>]
 
 - (April 30th, 2017) *Altimeter Sensor Testing Experiment of the CubeSat* 
-[![here to view the video of the experiment](<img src="Images/PRCubeStars-Altimeter-Testing.png" alt="hi" class="inline"/>)](https://www.youtube.com/watch?v=0UYQ0fL8KiQ)
+[[here to view the video of the experiment](<img src="Images/PRCubeStars-Altimeter-Testing.jpg" alt="hi" class="inline"/>)](https://www.youtube.com/watch?v=0UYQ0fL8KiQ)
 
 - (May 4th, 2017) - *Video of the glider that will be carrying our experiment into space* (click [here to view the video](https://www.facebook.com/Teachersinspace/videos/1532713416779187/))
 
