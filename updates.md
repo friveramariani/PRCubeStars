@@ -7,7 +7,9 @@ title: News and Updates
 
 - (July 17th, 2017)
 
-*Members* of Perlan Project, located in the Calafate Region in the south region of Argentina. This is the site from where the Perlan Project glider will be making its flights. 
+*Members* of Perlan Project, located in the Calafate Region in the south region of Argentina. 
+This is the site from where the Perlan Project glider will be making its flights. 
+
 [<img src="Images/Members-Perlan-Project.jpg" alt="hi" class="inline"/>]
 
 *Virtual Cockpit* of the Perlan Glider that will be flying the PRCubeStars CubeSat. Click on the image below. 
@@ -21,6 +23,7 @@ The *Perlan Project's* glider that will be carrying our CubeSat into the stratos
 - (April 30th, 2017) 
 
 *Video of the Altimeter Sensor Testing Experiment of the CubeSat*. 
+
 [<img src="Images/PRCubeStars-Altimeter-Testing.jpg" alt="hi" class="inline"/>](https://www.youtube.com/watch?v=0UYQ0fL8KiQ)
 
 
