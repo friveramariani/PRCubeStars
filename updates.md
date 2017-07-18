@@ -6,6 +6,7 @@ title: News and Updates
 
 - (July 18th, 2017)
 ***Virtual Cockpit** of a Low-Altitude Test Flight of the Perlan II*.
+
 [<img src="Images/Perlan-Project-LowAltFlight.jpg" alt="hi" class="inline"/>](https://www.youtube.com/watch?v=ATe1IwrZZO8)
 
 - (July 17th, 2017)
