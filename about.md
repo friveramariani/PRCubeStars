@@ -34,8 +34,9 @@ title:Who Are PRCubeStars?
 
 <img src="Images/YajairaSierraSastre.JPG" alt="hi" class="inline"/> 
 **Yajaira Sierra-Sastre, PhD**, *Mission Director* 
+Dr. Sierra-Sastre, who is from the same neighborhood and went to the same high school (Carmen Bozello de Huyke, Arroy, PR) as Dr. Rivera-Mariani, is a nanotechnology scientist, excellent educator, science communicator, and mentor, with astronautical experience. In 2013, Dr. Sierra-Sastra was part of a six-person crew in the [HI-SEAS](https://en.wikipedia.org/wiki/HI-SEAS) project, in which the crew spent 4 months in a module simulating Mars conditions and among the goals of the project was to determine ways to keep astrounats nourised while simulating a Mars expedition. She was one of the selected among over 700 applicants and was the only Hispanic of the crew. She obtained her Bachelors of Science in Chemistry from the University of Puerto Rico, Mayaguez Campus. After working as a high teacher Chemistry teacher, she attended Cornell University, where she obtained her PhD in materials science and nanotechnology (source: https://en.wikipedia.org/wiki/Yajaira_Sierra_Sastre).
 
-(click [here for Dr. Sierra-Sastre's bio](https://en.wikipedia.org/wiki/Yajaira_Sierra_Sastre))
+You can find more information about Dr. Sierra-Sastre's bio (click [here for Dr. Sierra-Sastre's bio](https://en.wikipedia.org/wiki/Yajaira_Sierra_Sastre)). She always share interesting scientific and mentoring information in her facebook page (https://www.facebook.com/YajairaSierraSastre/).
 
 <img src="Images/DaronWestly.JPG" alt="hi" class="inline"/> 
 **Daron Westly**, *Mission Specialist* 
