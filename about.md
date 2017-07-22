@@ -2,7 +2,7 @@
 title: Who are PRCubeStars
 ---
 
-[**Home**](https://friveramariani.github.io/PRCubeStars/) | | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Images**](https://friveramariani.github.io/PRCubeStars/images)
+[**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Images**](https://friveramariani.github.io/PRCubeStars/images)
 
 <img src="Images/Collage-2-1.png" alt="hi" class="inline"/>
 
