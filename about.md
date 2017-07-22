@@ -2,6 +2,8 @@
 title: Who are PRCubeStars
 ---
 
+[**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates)
+
 <img src="Images/Collage-2-1.png" alt="hi" class="inline"/>
 
 ##### Information about the PRCubeStars Team members

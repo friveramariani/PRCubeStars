@@ -2,6 +2,8 @@
 title: PRCubeStars Images
 ---
 
+[**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates)
+
 ## PRCubeStars Images
 
 (April 2nd, 2016) - *PRCubeStars presentation at the University of Puerto Rico - Mayagüez campus*
