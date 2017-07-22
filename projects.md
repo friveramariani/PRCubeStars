@@ -1,5 +1,5 @@
 ---
-title: PRCubeStars Projects
+title: PRCubeStars Projects  
 ---
 
 [**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Events**](https://friveramariani.github.io/PRCubeStars/images)
