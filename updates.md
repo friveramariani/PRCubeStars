@@ -1,5 +1,5 @@
 ---
-title: News and Updates
+title: PRCubeStars News and Updates
 ---
 
 ## News and Updates
