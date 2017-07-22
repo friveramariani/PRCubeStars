@@ -36,15 +36,15 @@ title: Who Are PRCubeStars?
   
 
 <img src="Images/DaronWestly.JPG" alt="hi" class="inline"/> 
-**Daron Westly**: *Mission Specialist of PRCubeStars*. Daron Westly is also an expert in nanotechnology with Bachelor of Science and Masters of Science in Electrical Engineering from South Florida University and Cornell University, respectively. His excellent scientific research trayectory have addressed the areas of x-ray zone plates, microfluidic cells, and electron beam lithography in nanoscale fabrication. His interest in the Makers Movement, mentoring of students, and nanofabrication and computational expertise has been fundamental in the PRCubeStars team. Daron is currently a research scientists at the [US National Institute of Standards and Technology](https://www.nist.gov/people/daron-westly).  
+**Daron Westly**: *Mission Specialist of PRCubeStars*. Daron Westly is also an expert in nanotechnology with Bachelor of Science and Masters of Science in Electrical Engineering from South Florida University and Cornell University, respectively. His excellent scientific research trayectory have addressed the areas of x-ray zone plates, microfluidic cells, and electron beam lithography in nanoscale fabrication. His interest in the Makers Movement, mentoring of students, and nanofabrication and computational expertise has been fundamental in the PRCubeStars team. Daron is currently a research scientists at the [US National Institute of Standards and Technology](https://www.nist.gov/people/daron-westly). Daron is also a brave [marathon runner](http://www.marathonfoto.com/Proofs?PIN=E7V722&LastName=WESTLY).  
   
 
 <img src="Images/DamasoCardenalesColon.jpg" alt="hi" class="inline"/> 
-**Damaso Cardenales**, *Computer Science Specialist* (computer science expert and member of [Makerspace Puerto Rico](https://www.facebook.com/Makerspacepr/?fref=ts))
+**Damaso Cardenales**: *Computer Science Expert and Mission Specialist of PRCubeStars*. Dámaso Cardenales-Colón is one of our computer science experts and an avid follower and supporter of the Maker Movement, including being an active member of the group [Makerspace Puerto Rico](https://www.facebook.com/Makerspacepr/?fref=ts). He is also an excellent mentor and leader, and has shared with students of the PRCubeStars team lots of knowledge in design, assembly, and programming of hardware. His leadership and relationship that he has been able to develop with our students has been key in the success of the PRCubeStars Team. 
   
 
 <img src="Images/CarlosRodriguez.jpg" alt="hi" class="inline"/> 
-**Carlos Rodriguez**, *Computer Science Specialist* (computer science expert and member of [Makerspace Puerto Rico](https://www.facebook.com/Makerspacepr/?fref=ts))
+**Carlos Rodriguez**, *Computer Science Expert and Mission Specialist of PRCubeStars*. Carlos Rodríguez is one of the leaders of [Makerspace Puerto Rico](https://www.facebook.com/Makerspacepr/?fref=ts) and our other expert in computer sciences. His maker, design, assembly, and programming expertise has also been fundamental to the PRCubeStars team.
 
 
 

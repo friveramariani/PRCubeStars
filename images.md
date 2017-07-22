@@ -27,3 +27,5 @@ title: PRCubeStars Images
 <img src="Images/Dariel-Graduation.jpg" alt="hi" class="inline"/>
 
 [Click here to return to the PRCubeStars main](https://friveramariani.github.io/PRCubeStars/)
+
+*Copyright 2017 PRCubeStars*
