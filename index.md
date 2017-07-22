@@ -1,6 +1,6 @@
 ## Welcome to the PRCubeStars Webpage
 
-[**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Images**](https://friveramariani.github.io/PRCubeStars/images)
+[**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Events**](https://friveramariani.github.io/PRCubeStars/images)
 
 <img src="Images/Cube Stars.jpeg" alt="hi" class="inline"/>
 
