@@ -1,4 +1,6 @@
-## Who Are PRCubeStars?
+---
+title:Who Are PRCubeStars?
+---
 
 [**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Images**](https://friveramariani.github.io/PRCubeStars/images)
 
