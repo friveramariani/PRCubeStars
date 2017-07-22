@@ -1,7 +1,6 @@
 ---
 title: Who are PRCubeStars
 ---
-
 [**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Images**](https://friveramariani.github.io/PRCubeStars/images)
 
 <img src="Images/Collage-2-1.png" alt="hi" class="inline"/>
@@ -10,7 +9,7 @@ title: Who are PRCubeStars
 
 ###### Our Stars
 
-- **Diamarys Salomé Rivera8**: sophmore chemical engineering student at the University of Puerto Rico - Mayagüez campus
+- **Diamarys Salomé Rivera**: sophmore chemical engineering student at the University of Puerto Rico - Mayagüez campus
 - **Cristal L. Pérez-Pi**: sophmore mechanical engineering student at the University of Puerto Rico - Mayagüez campus
 - **Dariel Torres-Velázquez**: freshman mechanical engineering student at the University of Puerto Rico - Mayagüez campus
 - **Diego J.L. Vázquez-Santos**: junior at the Science and Math Specialized School Thomas Armstrong Toro, Ponce PR
