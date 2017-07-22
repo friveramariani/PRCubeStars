@@ -1,6 +1,4 @@
----
-title: PRCubeStars News and Updates
----
+## PRCubeStars News and Updates
 
 [**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Images**](https://friveramariani.github.io/PRCubeStars/images)
 
