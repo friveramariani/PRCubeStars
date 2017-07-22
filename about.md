@@ -1,12 +1,14 @@
-## Who Are PRCubeStars?
+---
+title: Who Are PRCubeStars?
+---
 
 [**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Images**](https://friveramariani.github.io/PRCubeStars/images)
-
-<img src="Images/Collage-2-1.png" alt="hi" class="inline"/>
 
 ##### Information about the PRCubeStars Team members
 
 ###### Our Stars
+
+<img src="Images/StudentsTeacher.jpg" alt="hi" class="inline"/>
 
 - **Diamarys Salomé Rivera**: 
 	+ Sophmore, chemical engineering at the University of Puerto Rico - Mayagüez campus
@@ -36,7 +38,7 @@
 (click [here for Dr. Sierra-Sastre's bio](https://en.wikipedia.org/wiki/Yajaira_Sierra_Sastre))
 
 <img src="Images/DaronWestly.JPG" alt="hi" class="inline"/> 
-- **Daron Westly**, *Mission Specialist* 
+**Daron Westly**, *Mission Specialist* 
 
 (BS and MS degrees in Electrical Engineering from the University of South Florida and Cornell University, respectively)
 
