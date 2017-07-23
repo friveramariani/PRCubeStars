@@ -1,11 +1,11 @@
 ---
-title: PRCubeStars Images
+title: PRCubeStars Events
 ---  
 
 
 [**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) 
 
-## PRCubeStars Images
+## PRCubeStars Events
 
 (April 2nd, 2016) - *PRCubeStars presentation at the University of Puerto Rico - Mayagüez campus*
 <img src="Images/Presentation-PRCubeStars-1.jpg" alt="hi" class="inline"/>
