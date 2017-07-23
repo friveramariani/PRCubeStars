@@ -5,7 +5,7 @@ title: PRCubeStars News and Updates
 
 [**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Events**](https://friveramariani.github.io/PRCubeStars/images)
 
-## News and Updates
+## PRCubeStars News and Updates
 
 - (July 18th, 2017) ***Virtual Cockpit** of a Low-Altitude Test Flight of the Perlan II*.
 
