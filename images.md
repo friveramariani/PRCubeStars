@@ -7,7 +7,7 @@ title: PRCubeStars Events
 
 ## PRCubeStars Events
 
-(April 2nd, 2016) - *PRCubeStars presentation at the University of Puerto Rico - Mayagüez campus*
+(April 2nd, 2016) - *PRCubeStars presentation at the University of Puerto Rico - Mayagüez Campus during the Arduino Day*
 <img src="Images/Presentation-PRCubeStars-1.jpg" alt="hi" class="inline"/>
 
 
