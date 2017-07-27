@@ -7,7 +7,11 @@ title: PRCubeStars News and Updates
 
 ## PRCubeStars News and Updates
 
-- (July 24th, 2016) **Infographics** of the Perlan II glider that will be carrying our the **PRCubeStars** CubeSat into the stratosphere. 
+- (July 27th, 2017) - Short video with **PRCubeStars updates**
+
+<iframe src="https://spark.adobe.com/video/Q5jORZtrP7Itx/embed"  width="960" height="540" frameborder="0" allowfullscreen></iframe>
+
+- (July 24th, 2017) **Infographics** of the Perlan II glider that will be carrying our the **PRCubeStars** CubeSat into the stratosphere. 
 
 [<img src="Images/PerlanII_Infographics.jpg" alt="hi" class="inline"/>](https://www.graphicnews.com/en/pages/35626/AVIATION_Perlan_II_glider_altitude_record_bid)
 
