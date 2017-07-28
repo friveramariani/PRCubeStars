@@ -8,8 +8,8 @@ title: PRCubeStars Events
 ## PRCubeStars Events
 
 
-(June 2017) - *High School Graduation of Dariel Torres, one of our students in the PRCubeStars Team*
 <img src="Images/Dariel-Graduation.jpg" alt="hi" class="inline"/> 
+(June 2017) - *High School Graduation of Dariel Torres, one of our students in the PRCubeStars Team*
 
 
 
@@ -20,10 +20,12 @@ title: PRCubeStars Events
 
 
 <img src="Images/IMG-3060.JPG" alt="hi" class="inline"/>
+(April 15th, 2016) - *Surprise visit by Dr. Félix E. Rivera-Marian to PRCubeStars' students at the Thomas Armstrong Toro High School*
+
+
 
 <img src="Images/IMG-3059.JPG" alt="hi" class="inline"/>
 (April 15th, 2016) - *Surprise visit by Dr. Félix E. Rivera-Marian to PRCubeStars' students at the Thomas Armstrong Toro High School*
-
 
 
 
