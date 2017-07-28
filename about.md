@@ -48,5 +48,17 @@ title: Who Are PRCubeStars?
 **Carlos Rodriguez**, *Computer Science Expert and Mission Specialist of PRCubeStars*. Carlos Rodríguez is one of the leaders of [Makerspace Puerto Rico](https://www.facebook.com/Makerspacepr/?fref=ts) and our other expert in computer sciences. His maker, design, assembly, and programming expertise has also been fundamental to the PRCubeStars team.
 
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-103557590-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+[Click here to return to the PRCubeStars main page](https://friveramariani.github.io/PRCubeStars/)
 
 *Copyright 2017 PRCubeStars*
