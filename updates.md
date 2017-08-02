@@ -7,6 +7,11 @@ title: PRCubeStars News and Updates
 
 ## PRCubeStars News and Updates
 
+<img src="Images/30000ft.jpg" alt="hi" class="inline"/>
+- (August 1st, 2017) - **Perlan II at 30000** feet above see level during a test flight.  
+
+
+
 
 <iframe src="https://spark.adobe.com/video/Q5jORZtrP7Itx/embed"  width="960" height="540" frameborder="0" allowfullscreen></iframe> 
 - (July 27th, 2017) - Short video with **PRCubeStars updates** 
