@@ -8,7 +8,7 @@ title: PRCubeStars News and Updates
 ## PRCubeStars News and Updates
 
 <img src="Images/Perlan2-August3rd2017.jpg" alt="hi" class="inline"/>
-- (August 3rd, 2017) - **Virtual Cockpit recordings** of the Perlan II flight on August^3rd^, 2017. 
+- (August 3rd, 2017) - **Virtual Cockpit recordings** of the Perlan II flight on August^3rd^, 2017. In this flight, the Perlan II reached beyond 30,000 ft above sea level 
 
 
 
