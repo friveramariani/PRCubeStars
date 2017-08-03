@@ -7,7 +7,7 @@ title: PRCubeStars News and Updates
 
 ## PRCubeStars News and Updates
 
-<img src="PerlanII-2017-08-03_13-21-06.png" alt="hi" class="inline"/>
+<img src="PerlanII-2017-08-03-13-21-06.jpg" alt="hi" class="inline"/>
 - (August 3rd, 2017) - **Virtual Cockpit recordings** of the Perlan II flight on August^3rd^, 2017. 
 
 
