@@ -8,6 +8,11 @@ title: PRCubeStars Events
 ## PRCubeStars Events
 
 
+<img src="Images/Video-ParqueDeLasCiencias.jpg" alt="hi" class="inline"/> 
+#### PRCubeStars at "El Parque de las Ciencias" (The Sciences Park) in Bayamon, PR
+**(August 6th, 2017)**: **PRCubeStars at "El Parque de las Ciencias" (The Sciences Park)**, in Bayamon, PR, sharing with the public their knowledge about the CubeSat and talking about our team's projects and updates. 
+
+
 <img src="Images/Dariel-Graduation.jpg" alt="hi" class="inline"/> 
 #### Graduation of one of our students: Dariel Torres
 **(June 2017)**: **High School Graduation** of Dariel Torres, one of our students in the PRCubeStars Team.
