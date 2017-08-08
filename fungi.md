@@ -22,7 +22,7 @@ Because fungal spores are an important biological component of the atmosphere we
 - among others findings, including active projects that interphase biological sciences and computational biology
 
 #### Why are we interested in collecting fungal spores in the stratosphere?
-The main goal of the project, to detect fungal spores in the stratosphere, has important climate change, environmental, and human health relevance. If detected in the stratosphere, it would provide evidence of their long-distance stratospheric transport. 
+The main goal of the project, to detect fungal spores in the stratosphere, has important climate change (e.g. cloud formation), environmental, and human health relevance (e.g. affecting human respiratory health). There is evidence that fungal spores have the potential to be transported long distances in the trophosphere. BUt less is known about possible long-distance travel in the stratosphere. 
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
