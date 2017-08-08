@@ -23,6 +23,13 @@ Find more about...
 
 ...of PRCubeStars
 
+
+You can also find information about...
+[What is a CubeSat](https://friveramariani.github.io/PRCubeStars/cubesat)
+[What are fungal spores](https://friveramariani.github.io/PRCubeStars/fungi)
+
+
+
 ***We would like the acknouwledge the contrubtions of***
 
 <img src="Images/Acknowledgements.jpg" alt="hi" class="inline"/>
