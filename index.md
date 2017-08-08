@@ -17,8 +17,8 @@ We are a multidisciplinary team of *scientists, engineers, computer scientists, 
 Find more about...
 
 - [Our Team](https://friveramariani.github.io/PRCubeStars/about)
-- [Our Project](https://friveramariani.github.io/PRCubeStars/projects)
-- [Updates](https://friveramariani.github.io/PRCubeStars/updates)
+- [Our Project and experiments](https://friveramariani.github.io/PRCubeStars/projects)
+- [Recent Updates](https://friveramariani.github.io/PRCubeStars/updates)
 - [Recent Events](https://friveramariani.github.io/PRCubeStars/images)
 
 ...of PRCubeStars
