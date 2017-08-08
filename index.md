@@ -26,8 +26,8 @@ Find more about...
 
 You can also find information about...
 
-- [What is a CubeSat](https://friveramariani.github.io/PRCubeStars/cubesat)
-- [What are fungal spores](https://friveramariani.github.io/PRCubeStars/fungi)
+- [What is a CubeSat?](https://friveramariani.github.io/PRCubeStars/cubesat)
+- [What are fungal spores?](https://friveramariani.github.io/PRCubeStars/fungi)
 
 
 

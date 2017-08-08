@@ -13,8 +13,8 @@ Fungal spores, which are known to pose human respiratory health risks (e.g. resp
 
 Find below links to more information about CubeSats and fungal spores:
 
-- [What is a CubeSat](https://friveramariani.github.io/PRCubeStars/cubesat)
-- [What are fungal spores](https://friveramariani.github.io/PRCubeStars/fungi)
+- [What is a CubeSat?](https://friveramariani.github.io/PRCubeStars/cubesat)
+- [What are fungal spores?](https://friveramariani.github.io/PRCubeStars/fungi)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
