@@ -12,8 +12,9 @@ Fungal spores, which are known to pose human respiratory health risks (e.g. resp
 (*click [here to find additional information about the project](http://teachers-in-space.com/perlan-cubesat-participants-for-2016/perlan-cubesat-participant-thomas-armstrong-toro-high-school/)*)
 
 Find below links to more information about CubeSats and fungal spores:
-[What is a CubeSat](https://friveramariani.github.io/PRCubeStars/cubesat)
-[What are fungal spores](https://friveramariani.github.io/PRCubeStars/fungi)
+
+- [What is a CubeSat](https://friveramariani.github.io/PRCubeStars/cubesat)
+- [What are fungal spores](https://friveramariani.github.io/PRCubeStars/fungi)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
