@@ -4,7 +4,7 @@ title: Welcome to the PRCubeStars Webpage
 
 ## Welcome to the PRCubeStars Webpage
 
-[**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Events**](https://friveramariani.github.io/PRCubeStars/images) | [**What's a CubeSat**](https://friveramariani.github.io/PRCubeStars/cubesat) | [**What's a CubeSat**](https://friveramariani.github.io/PRCubeStars/fungi)
+[**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Events**](https://friveramariani.github.io/PRCubeStars/images) | [**What is a CubeSat?**](https://friveramariani.github.io/PRCubeStars/cubesat) | [**What are fungal spores?**](https://friveramariani.github.io/PRCubeStars/fungi)
 
 <img src="Images/Cube Stars.jpeg" alt="hi" class="inline"/>
 
