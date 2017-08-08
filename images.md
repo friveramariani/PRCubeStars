@@ -3,7 +3,7 @@ title: PRCubeStars Events
 ---  
 
 
-[**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) 
+[**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**What's a CubeSat**](https://friveramariani.github.io/PRCubeStars/cubesat) | [**What's a CubeSat**](https://friveramariani.github.io/PRCubeStars/fungi)
 
 ## PRCubeStars Events
 
