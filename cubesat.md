@@ -3,7 +3,7 @@ title: What is a CubeSat?
 ---  
 
 
-[**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Events**](https://friveramariani.github.io/PRCubeStars/images) | [**What are fungal spores?**](https://friveramariani.github.io/PRCubeStars/fungi)
+[**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Events**](https://friveramariani.github.io/PRCubeStars/images) | [**Fungal Spores**](https://friveramariani.github.io/PRCubeStars/fungi)
 
 ## What is a CubeSat?
 
@@ -11,14 +11,14 @@ A **CubeSat** is a low-cost miniatiruzed spacecraft, often referred as nanosatel
 
 It is made by multiple units of 10 x 10 x 10 cm in length, and barely 2.5 lbs (or 1.3 kilograms). These dimensions and lightweight allows integratation into the CubeSat low-scale materials and equipments for space exploration, and **in the case of PRCubeStars to explore the stratosphere microbiome** (refer to the [*projects page*](https://friveramariani.github.io/PRCubeStars/projects)).
 
-## Images  PRCubeStars' CubeSat
+## Images of the PRCubeStars' CubeSat
 
 <img src="Images/CubeSat-AllParts.jpg" alt="hi" class="inline"/>
 ***The CubeSat***. This is our CubeSat, with all labeles on all the CubeSat's parts. *(Source of the image above are students and mentors of PRCubeStars*).
 
 
 <img src="Images/CubeSat-CloseUp.jpg" alt="hi" class="inline"/>
-***CubeSat's Sample Collector and Altimeter***. This image shows a close up of the CubeSat, including ***sample collector*** and the ***altimeter***. *(Source of the image above are students and mentors of PRCubeStars*).
+***CubeSat's Sample Collector and Altimeter***. This image shows a close up of the CubeSat, including ***sample collector***, ***the middle layer*** of the sample collector, and the ***altimeter***. *(Source of the image above are students and mentors of PRCubeStars*).
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -3,7 +3,7 @@ title: PRCubeStars News and Updates
 ---  
 
 
-[**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Events**](https://friveramariani.github.io/PRCubeStars/images) | [**What is a CubeSat?**](https://friveramariani.github.io/PRCubeStars/cubesat) | [**What are fungal spores?**](https://friveramariani.github.io/PRCubeStars/fungi)
+[**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Events**](https://friveramariani.github.io/PRCubeStars/images) | [**The CubeSat**](https://friveramariani.github.io/PRCubeStars/cubesat) | [**Fungal Spores**](https://friveramariani.github.io/PRCubeStars/fungi)
 
 ## PRCubeStars News and Updates
 
