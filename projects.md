@@ -16,10 +16,11 @@ Find below links to more information about CubeSats and fungal spores:
 - [What is a CubeSat?](https://friveramariani.github.io/PRCubeStars/cubesat)
 - [What are fungal spores?](https://friveramariani.github.io/PRCubeStars/fungi)
 
-## Current and recently-completed experiments
+## Ongoing and recently-completed experiments
 
 - altimeter testing
 - sychronization of the altimeter and Arduino programming codes
+- volumetric sampling with the CubeSat (at 1L and 5L per minute)
 
 
 <script>
