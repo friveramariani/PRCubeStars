@@ -5,7 +5,7 @@ title: What are fungal spores?
 
 [**Home**](https://friveramariani.github.io/PRCubeStars/) | [**Who Are PRCubeStars**](https://friveramariani.github.io/PRCubeStars/about) | [**Projects**](https://friveramariani.github.io/PRCubeStars/projects) | [**Updates**](https://friveramariani.github.io/PRCubeStars/updates) | [**Events**](https://friveramariani.github.io/PRCubeStars/images) | [**What is a CubeSat?**](https://friveramariani.github.io/PRCubeStars/cubesat) 
 
-## What are fungal spores
+## What are fungal spores?
 
 
 ***During this week, we'll be updating this page to include information about what are fungal spores. Thanks for your patience, and are very grateful of your interest in PRCubeStars***
