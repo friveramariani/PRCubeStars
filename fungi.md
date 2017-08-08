@@ -12,7 +12,7 @@ title: What are fungal spores?
 Because fungal spores are an important biological component of the atmosphere we live and the air we breath, Dr. Félix E. Rivera-Mariani has been working since 2005 in various collaborative studies to elucidate the role of fungal spores in allergic respiratory diseases, such as allergic rhinitis and asthma ([find here all published scientific articles of Dr. Rivera-Mariani](https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications?sorting=newest&page=2)). Among important findings of Dr. Rivera-Mariani collaborative studies include the following:
 
  - fungal spores, not pollen, are the predominant biological particulate in Puerto Rico [[^fn2]] 
- - the population of Puerto Rico, and possibly the Caribbean basin, may be react to allergens not commonly tested during allergy diagnosis[[^fn3, ^fn4, ^fn5]]
+ - the population of Puerto Rico, and possibly the Caribbean basin, may be react to allergens not commonly tested during allergy diagnosis[[^fn3], [^fn4], [^fn5]]
 
 
 [^fn1]: Alexopoulos, C. J., Mims, C. W., et al. (1996). Introductory mycology (4th ed.). New York: John Wiley & Sons.
