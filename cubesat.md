@@ -8,7 +8,13 @@ title: What is a CubeSat?
 ## What is a CubeSat?
 
 
-***During this week, we'll be updating this page to include information about what is a CubeSat. Thanks for your patience, and are very grateful of your interest in PRCubeStars***
+<img src="Images/CubeSat-AllParts.jpg" alt="hi" class="inline"/>
+***The CubeSat***. This is our CubeSat, with all labeles on all the CubeSat's parts. 
+
+
+<img src="Images/CubeSat-CloseUp.jpg" alt="hi" class="inline"/>
+***CubeSat's Sample Collector and Altimeter***. This image shows a close up of the CubeSat, including ***sample collector*** and the ***altimeter***. 
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
