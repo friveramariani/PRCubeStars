@@ -39,6 +39,5 @@ Find more about...
 
 </script>
 
-[Click here to return to the PRCubeStars main page](https://friveramariani.github.io/PRCubeStars/)
 
 *Copyright 2017 PRCubeStars*
