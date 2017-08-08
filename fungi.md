@@ -11,10 +11,15 @@ title: What are fungal spores?
 
 Because fungal spores are an important biological component of the atmosphere we live and the air we breath, Dr. Félix E. Rivera-Mariani has been working since 2005 in various collaborative studies to elucidate the role of fungal spores in allergic respiratory diseases, such as allergic rhinitis and asthma. [Find here all published scientific articles of Dr. Rivera-Mariani](https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications?sorting=newest&page=2), including those directly related to the study of fungal spores as important allergens. Among important findings of Dr. Rivera-Mariani collaborative studies include the following:
 
-- fungal spores, not pollen, are the predominant biological particulate in Puerto Rico [[^fn2]] 
-- the population of Puerto Rico, and possibly the Caribbean basin, may be react to allergens not commonly tested during allergy diagnosis [[^fn3], [^fn4], [^fn5]]
-- other findings related to fungi include elucidating their [inflammatory potential](https://www.researchgate.net/publication/259394381_Comparison_of_the_Interleukin-1-Inducing_Potency_of_Allergenic_Spores_from_Higher_Fungi_Basidiomycetes_in_a_Cryopreserved_Human_Whole_Blood_System), characterizing the [ecology of fungal spores in indoor environments in Puerto Rico](https://www.researchgate.net/publication/282348027_Mold_populations_and_dust_mite_allergen_concentrations_in_house_dust_samples_from_across_Puerto_Rico), characterizing [proteins from fungal spores with allergenic potential](https://www.researchgate.net/publication/312192282_Serological_Reactivity_and_Identification_of_IgE-Binding_Polypeptides_of_Ganoderma_applanatum_Crude_Spore_Cytoplasmic_Extract_in_Puerto_Rican_Subjects), among others.  
+- fungal spores, not pollen, are the predominant biological particulate in Puerto Rico
+- the population of Puerto Rico, and possibly the Caribbean basin, may be react to allergens not commonly tested during allergy diagnosis
+- elucidating their [inflammatory potential](https://www.researchgate.net/publication/259394381_Comparison_of_the_Interleukin-1-Inducing_Potency_of_Allergenic_Spores_from_Higher_Fungi_Basidiomycetes_in_a_Cryopreserved_Human_Whole_Blood_System)
+- characterizing the [ecology of fungal spores in indoor environments in Puerto Rico](https://www.researchgate.net/publication/282348027_Mold_populations_and_dust_mite_allergen_concentrations_in_house_dust_samples_from_across_Puerto_Rico)
+- characterizing [proteins from fungal spores with allergenic potential](https://www.researchgate.net/publication/312192282_Serological_Reactivity_and_Identification_of_IgE-Binding_Polypeptides_of_Ganoderma_applanatum_Crude_Spore_Cytoplasmic_Extract_in_Puerto_Rican_Subjects)
+- among others findings, including active projects that interphase biological sciences and computational biology
 
+#### Why are we interested in collecting fungal spores in the stratosphere?
+The main goal of the project, to detect fungal spores in the stratosphere, has important climate change, environmental, and human health relevance. If detected in the stratosphere, it would provide evidence of their long-distance stratospheric transport. 
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
