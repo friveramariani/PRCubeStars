@@ -29,7 +29,7 @@ title: PRCubeStars News and Updates
 [<img src="Images/Perlan-Project-LowAltFlight.jpg" alt="hi" class="inline"/>](https://www.youtube.com/watch?v=ATe1IwrZZO8)
 ***(July 18th, 2017) Virtual Cockpit during low-altitude test flight***: *Virtual Cockpit* of a low-altitude test flight of the Perlan II. These tests flights are being carried out in [Calafate, located in the south region of Argentina](https://en.wikipedia.org/wiki/El_Calafate).
 
-<img src="Images/Members-Perlan-Project.jpg" alt="hi" class="inline"/> 
+<img src="Images/Members-Perlan-Project.jpg" alt="hi" class="inline"/>    
 ***(July 17th, 2017) Members of the Perlan II Project***: Some of the **Members of Perlan Project**, which are carrying out test flights of the Perlan II glider in Calafate, Argentina.  
 
   
@@ -41,7 +41,7 @@ title: PRCubeStars News and Updates
 ***(June 14th, 2017) Perlan II Glider***: The **Perlan II glider** that will be carrying our CubeSat into the stratosphere has arrived in Argentina. Testing flights will begin in the upcoming weeks. Click [here](http://www.sciencemag.org/news/2017/07/glider-aims-new-heights-and-rare-scientific-data?platform=hootsuite) for information about the Perlan II Project. 
 
 
-[<img src="Images/PRCubeStars-Altimeter-Testing.jpg" alt="hi" class="inline"/>](https://www.youtube.com/watch?v=0UYQ0fL8KiQ) 
+[<img src="Images/PRCubeStars-Altimeter-Testing.jpg" alt="hi" class="inline"/>](https://www.youtube.com/watch?v=0UYQ0fL8KiQ)    
 ***(April 30th, 2017) Altimeter Testing of the PRCubeStars CubeSat***: **Video of the Altimeter Sensor** testing experiment of the CubeSat. This experiment was carried out in an elevator of a building in the state of Maryland, where two of our mentors (Dr. Yajaira Sierra-Sastre and electrical engineer Daron Westly) work and live.   
 
 
