@@ -39,7 +39,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/StudentsWorking1.jpg" alt="hi" class="inline"/>
-***Students Working on the CubeSat and being Mentored by Damaso Cardenales-Colón***. Find above a collage of students and mentor working on assembling and programming the CubeSat. **A)** Students receiving different parts for assembly of the CubeSat; **B)** the student Dariel Torres working on the assembly of the CubeSat's box; **C** students (Dariel Torres, in yellow shirt, next to Crystal Pi; Diego Velázquez, with grey jacket, next to Diamarys Torres) working on programming the Arduino of the CubeSat with mentor Damaso Cardenales-Colón. **D)** Diamarys and Dariel working on the assembly of our CubeSat, including the sample collector, the Arduino and sensors; **E)** the Arduino of our CubeSat. 
+***Students Working on the CubeSat and being Mentored by Damaso Cardenales-Colón***: Find above a collage of students and mentor working on assembling and programming the CubeSat. **A)** Students receiving different parts for assembly of the CubeSat; **B)** the student Dariel Torres working on the assembly of the CubeSat's box; **C** students (Dariel Torres, in yellow shirt, next to Crystal Pi; Diego Velázquez, with grey jacket, next to Diamarys Torres) working on programming the Arduino of the CubeSat with mentor Damaso Cardenales-Colón. **D)** Diamarys and Dariel working on the assembly of our CubeSat, including the sample collector, the Arduino and sensors; **E)** the Arduino of our CubeSat. 
 
 
 <script>
