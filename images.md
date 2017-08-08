@@ -41,6 +41,13 @@ title: PRCubeStars Events
 #### PRCubeStars' Students during the Arduino Day at the University of Puerto Rico - Mayagüez Campus
 **(April 2nd, 2016)**: **PRCubeStars' Students** during a presentation during the Arduino Day at the University of Puerto Rico Mayagüez Campus. They shared with the audience, which included students, professors, computer science and engineering experts, as well as experts in the Makers movement, information about the PRCubeStar project. 
 
+
+
+<img src="Images/StudentsWorking1.jpg" alt="hi" class="inline"/>
+#### Students Working on the CubeSat and being Mentored by Damaso Cardenales-Colón
+Find above a collage of students and mentor working on assembling and programming the CubeSat. **A)** Students receiving different parts for assembly of the CubeSat; **B)** the student Dariel Torres working on the assembly of the CubeSat's box; **C** students (Dariel Torres, in yellow shirt, next to Crystal Pi; Diego Velázquez, with grey jacket, next to Diamarys Torres) working on programming the Arduino of the CubeSat with mentor Damaso Cardenales-Colón. **D)** Diamarys and Dariel working on the assembly of our CubeSat, including the sample collector, the Arduino and sensors; **E)** the Arduino of our CubeSat. 
+
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
