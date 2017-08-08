@@ -7,12 +7,12 @@ title: What are fungal spores?
 
 ## What are fungal spores?
 
-**Fungal spores** are the dispersal strucutres of fungi, which are organisms commonly known for decomposing dead organic matter (i.e. saprohytes). [^fn1]  
+**Fungal spores** are the dispersal strucutres of fungi, which are organisms commonly known for decomposing dead organic matter (i.e. saprohytes). [^fn1] The role of spores in fungi is somewhat similar to the role of pollen in plants: to contribute to their dispersal in the environment. In addition to having structures that in nature behave similar to pollen, fungi also have other features shared with plants: they have cell wall (provide a protective "shield" to the spore) and absorb nutrients (similar to the roots of plants). Nevertheless, fungi are not photosynthesis and rely mainly in decomposing dead organic matter with powerful digestive enzymes
 
 
 ***During this week, we'll be updating this page to include information about what are fungal spores. Thanks for your patience, and are very grateful of your interest in PRCubeStars***
 
-[^fn1]: testing
+[^fn1]: Alexopoulos, C. J., Mims, C. W., et al. (1996). Introductory mycology (4th ed.). New York: John Wiley & Sons.
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
