@@ -23,11 +23,11 @@ title: PRCubeStars News and Updates
 
 
 [<img src="Images/PerlanII_Infographics.jpg" alt="hi" class="inline"/>](https://www.graphicnews.com/en/pages/35626/AVIATION_Perlan_II_glider_altitude_record_bid)
-***(July 24th, 2017) Infographics of the montain waves***: *Infographics* of the Perlan II glider that will be carrying our the **PRCubeStars** CubeSat into the stratosphere. 
+***(July 24th, 2017) Infographics of the montain waves***: Infographics of the Perlan II glider that will be carrying our the **PRCubeStars** CubeSat into the stratosphere. 
 
 
 [<img src="Images/Perlan-Project-LowAltFlight.jpg" alt="hi" class="inline"/>](https://www.youtube.com/watch?v=ATe1IwrZZO8)
-***(July 18th, 2017) Virtual Cockpit during low-altitude test flight***: *Virtual Cockpit* of a low-altitude test flight of the Perlan II. These tests flights are being carried out in [Calafate, located in the south region of Argentina](https://en.wikipedia.org/wiki/El_Calafate).
+***(July 18th, 2017) Virtual Cockpit during low-altitude test flight***: Virtual Cockpit of a low-altitude test flight of the Perlan II. These tests flights are being carried out in [Calafate, located in the south region of Argentina](https://en.wikipedia.org/wiki/El_Calafate).
 
 <img src="Images/Members-Perlan-Project.jpg" alt="hi" class="inline"/>    
 ***(July 17th, 2017) Members of the Perlan II Project***: Some of the **Members of Perlan Project**, which are carrying out test flights of the Perlan II glider in Calafate, Argentina.  
