@@ -11,6 +11,8 @@ A **CubeSat** is a low-cost miniaturized spacecraft, often referred as nanosatel
 
 The basic structure of a CubeSat is a single unit of 10 x 10 x 10 cm, and it usually commonly weighs approximately 2.5 lbs (or 1.3 kilograms). These dimensions and lightweight allows integration of low-cost materials and equipments for space exploration, and **in the case of PRCubeStars to explore the stratosphere microbiome** (refer to the [*projects page*](https://friveramariani.github.io/PRCubeStars/projects)).
 
+**It is important to mention** that the nanotechnology and fabrication expertise of Dr. Sierra-Sastre and Daron Westly, as well as the computational and *Maker* expertise of Damaso Cardenales-Colón and Carlos Rodríguez have been fundamental in mentoring the students in the design, assembly, and programming of the CubeSat. 
+
 ## Images of the PRCubeStars' CubeSat
 
 <img src="Images/CubeSat-AllParts.jpg" alt="hi" class="inline"/>
