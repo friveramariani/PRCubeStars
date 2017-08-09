@@ -7,8 +7,13 @@ title: PRCubeStars News and Updates
 
 ## PRCubeStars News and Updates
 
+<img src="Images/CubeSatIsOn-Calafate.jpg" alt="hi" class="inline"/>
+***(August 8th, 2017) PRCubeStars' CubeSat is charged***: The CubeSat from PRCubeStars has been charged, and will be in the cargo of upcoming flights of the Perlan II glider. 
+
+
 [<img src="Images/ASMStory-2017-08-04_14-36-37.jpg" alt="hi" class="inline"/>](https://micronow.org/science/analyzing-the-stratospheres-fungal-microbiome/)
 ***(August 4th, 2017) [Summary by MicroNow](https://micronow.org/science/analyzing-the-stratospheres-fungal-microbiome/)***: Excellent summary of the PRCubeStars story shared by the [American Society for Microbiology](https://www.asm.org/) through their recently-developed website [MicroNow](https://micronow.org/), which is dedicated to curating and aggregating information related to microbial sciences. 
+
 
 <img src="Images/Perlan2-August3rd2017.jpg" alt="hi" class="inline"/>
 ***(August 3rd, 2017) August 3rd Perlan II flight***: Virtual Cockpit recordings of the Perlan II flight on August 3rd, 2017. In this flight, **the Perlan II reached, again, an altitude beyond 30,000 ft above sea level**. 
