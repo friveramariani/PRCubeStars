@@ -41,6 +41,8 @@ title: PRCubeStars Events
 <img src="Images/StudentsWorking1.jpg" alt="hi" class="inline"/>
 ***Students Working on the CubeSat and being Mentored by Damaso Cardenales-Colón***: Find above a photo collage of students and mentor working on assembling and programming the CubeSat. **A)** Students receiving different parts for assembly of the CubeSat; **B)** the student Dariel Torres working on the assembly of the CubeSat's box; **C** students (Dariel Torres, in yellow shirt, next to Crystal Pi; Diego Velázquez, with grey jacket, next to Diamarys Torres) working on programming the Arduino of the CubeSat with mentor Damaso Cardenales-Colón. **D)** Diamarys and Dariel working on the assembly of our CubeSat, including the sample collector, the Arduino and sensors; **E)** the Arduino of our CubeSat. 
 
+<img src="Images/Yajaira-MarsAnalogMission.jpg" alt="hi" class="inline"/>
+***Dr. Yajaira Sierra Sastre in her Mars-Analog mission!***: In this image, we see PRCubeStars **mission director*** Dr. Sierra-Sastre during her participation in the 4-months long Mars-analog mission in the project HI-SEAS (acronym for Hawaii Space Exploration Analog and Simulation). This six-crew mission, into which 700 applications were submitted and Dr. Sierra-Sastre was the only Hispanic in the crew, addressed nutritional strategies for deep-space explorations (fotographic credit to Dr. Sian Proctor).
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
