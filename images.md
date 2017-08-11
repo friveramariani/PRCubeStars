@@ -48,7 +48,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/Portada-PerlaDelSur.jpg" alt="hi" class="inline"/>
-***PRCubeStars' Students and Mentor (Mrs. Carmen Noble) on the cover page***. Very nice edition (March 30th, 2016) in [*La Perla Del Sur*](http://www.periodicolaperla.com/), which is a local newspaper in the city of Ponce, PR.  Ponce is the where the Thomas Armstrong Toro High School, is a Math and Sciences specialized school, is located. From this school students and physics Mrs. Carmen Noble (also a mentor in PRCubeStars) were recruited to be part of the PRCubeStars team. **(March 30th, 2016)**
+***PRCubeStars' Students and Mentor (Mrs. Carmen Noble) on the cover page***. Very nice edition (March 30th, 2016) in [*La Perla Del Sur*](http://www.periodicolaperla.com/), which is a local newspaper in the city of Ponce, PR.  Ponce is where the Thomas Armstrong Toro, a Math and Sciences specialized high school, is located. From this school students and physics Mrs. Carmen Noble (also a mentor in PRCubeStars) were recruited to be part of the PRCubeStars team. **(March 30th, 2016)**
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
