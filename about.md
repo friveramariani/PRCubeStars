@@ -11,7 +11,7 @@ title: Who Are PRCubeStars?
 
 <img src="Images/StudentsTeacher.jpg" alt="hi" class="inline"/>
 
-- **Diamarys Salomé Rivera**: 
+- **Diamarys Salomé-Rivera**: 
 	+ Sophmore, chemical engineering at the University of Puerto Rico - Mayagüez campus
 
 - **Cristal L. Pérez-Pi**: 
