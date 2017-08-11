@@ -18,7 +18,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/IMG-2166.JPG" alt="hi" class="inline"/>
-***Dr. Yajaira Sierra-Sastre with PRCubeStars' Students***: A visit by Dr. Yajaira Sierra-Sastre to PRCubeStars' students at the Thomas Armstrong Toro High School. Dra. Sierra-Sastre, Mission Director and one of our mentors in PRCubeStars, is an expert in nanotechnology, science communicator, and expert in Mars analog missions. From left to right, students of PRCubeStars (Diego Velázquez, Dariel Torres, Diamarys Salomé, Crystal Pi), Dr. Sierra-Sastre, Mrs. Carmen Noble (one of PRCubeStars' mentors and Physics Teacher at the Thomas Armstrong Toro High School), and Dámaso Cardenales-Colón (one of the mentors and computer specialists of PRCubeStars). **(June 25th, 2016)**
+***Dr. Yajaira Sierra-Sastre with PRCubeStars' Students***: A visit by Dr. Yajaira Sierra-Sastre to PRCubeStars' students at the Thomas Armstrong Toro High School. Dra. Sierra-Sastre, Mission Director and one of our mentors in PRCubeStars, is an expert in nanotechnology, science communicator, and expert in Mars analog missions. From left to right, students of PRCubeStars (Diego Vázquez, Dariel Torres, Diamarys Salomé, Crystal Pi), Dr. Sierra-Sastre, Mrs. Carmen Noble (one of PRCubeStars' mentors and Physics Teacher at the Thomas Armstrong Toro High School), and Dámaso Cardenales-Colón (one of the mentors and computer specialists of PRCubeStars). **(June 25th, 2016)**
 
 
 
@@ -29,7 +29,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/IMG-3059.JPG" alt="hi" class="inline"/>
-***Surprise Visit by Dr. Félix E. Rivera-Mariani***: Surprise visit by Dr. Félix E. Rivera-Marian to PRCubeStars' students at the Thomas Armstrong Toro High School. From left to right, Dr. Rivera-Mariani, Diego Velázquez, Diamarys Salomé, Mrs. Carmen Noble (Physics teacher at the Thomas Armstrong Toro High School and mentor of PRCubeStars), Crystal Pi, Dariel Torres, and Dámaso Cardenales Colón (mentor and computer specialist of PRCubeStars). **(April 15th, 2016)**
+***Surprise Visit by Dr. Félix E. Rivera-Mariani***: Surprise visit by Dr. Félix E. Rivera-Marian to PRCubeStars' students at the Thomas Armstrong Toro High School. From left to right, Dr. Rivera-Mariani, Diego Vázquez, Diamarys Salomé, Mrs. Carmen Noble (Physics teacher at the Thomas Armstrong Toro High School and mentor of PRCubeStars), Crystal Pi, Dariel Torres, and Dámaso Cardenales Colón (mentor and computer specialist of PRCubeStars). **(April 15th, 2016)**
 
 
 
@@ -39,7 +39,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/StudentsWorking1.jpg" alt="hi" class="inline"/>
-***Students Working on the CubeSat and being Mentored by Damaso Cardenales-Colón***: Find above a photo collage of students and mentor working on assembling and programming the CubeSat. **A)** Students receiving different parts for assembly of the CubeSat; **B)** the student Dariel Torres working on the assembly of the CubeSat's box; **C** students (Dariel Torres, in yellow shirt, next to Crystal Pi; Diego Velázquez, with grey jacket, next to Diamarys Torres) working on programming the Arduino of the CubeSat with mentor Damaso Cardenales-Colón. **D)** Diamarys and Dariel working on the assembly of our CubeSat, including the sample collector, the Arduino and sensors; **E)** the Arduino of our CubeSat. 
+***Students Working on the CubeSat and being Mentored by Damaso Cardenales-Colón***: Find above a photo collage of students and mentor working on assembling and programming the CubeSat. **A)** Students receiving different parts for assembly of the CubeSat; **B)** the student Dariel Torres working on the assembly of the CubeSat's box; **C** students (Dariel Torres, in yellow shirt, next to Crystal Pi; Diego Vázquez, with grey jacket, next to Diamarys Torres) working on programming the Arduino of the CubeSat with mentor Damaso Cardenales-Colón. **D)** Diamarys and Dariel working on the assembly of our CubeSat, including the sample collector, the Arduino and sensors; **E)** the Arduino of our CubeSat. 
 
 
 
