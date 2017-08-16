@@ -8,6 +8,10 @@ title: PRCubeStars Events
 ## PRCubeStars Events
 
 
+<img src="Images/PRCubeStar-CubeStar-ChiefPilot2.jpg" alt="hi" class="inline"/> 
+***PRCubeStars CubeSat with Chief Pilot of Perlan II glider Jim Payne***: Post-flight pictures of the PRCubeStars CubeStat with Chief Pilot of the Perlan II Project glider Jim Payne. Today, **August 15th, 2017**, our CubeStat was in the cargo of the glider. Also, the glider was able to set a new altitude mark during this summer's flight campaing by reaching above 33,000 feet. As per Perlan II members, PRCubeStars CubeSat has been the highest among all CubeSats to date!. **(August, 15th, 2017)**
+
+
 <img src="Images/ParqueDeLasCiencias.jpg" alt="hi" class="inline"/> 
 ***PRCubeStars' Students at "El Parque de las Ciencias" (The Sciences Park)***: Students of PRCubeStars at "El Parque de las Ciencias" (The Sciences Park), in Bayamon, PR, sharing with the public their knowledge about nanosatellites (CubeSats) and talking about our team's projects and updates. El Parque de las Ciencias is one of Puerto Rico's main attractions, in which the public can learn about difference fields and topics of sciences (find information [here](https://es-la.facebook.com/pdlcb/)). **(August 6th, 2017)**
 
