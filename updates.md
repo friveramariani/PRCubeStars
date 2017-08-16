@@ -7,6 +7,8 @@ title: PRCubeStars News and Updates
 
 ## PRCubeStars News and Updates
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/07enO0GLpBI" frameborder="0" allowfullscreen></iframe>
+***PRCubeStars made history during the August 15th, 2017 Perlan II flight***: The August 15th, 2017 flight of the Perlan II glider was a historic one for the PRCubeStars team: our nanosatellite (CubeSat) was able to sample air above 33,000 feet of altitude while in extreme conditions (-58ºF), the coding of the arduino executed accordingly, the valve was able to change sampling angles as instructed by the code, and the altimeter was able to record sampling altitudes. Soon we will be receiving our sample collectors and implement microbiological techniques to detect fungal spores in the stratospheric samples.  
 
 <img src="Images/PRCubeStar-CubeStar-ChiefPilot2.jpg" alt="hi" class="inline"/> 
 ***PRCubeStars CubeSat with Chief Pilot of Perlan II glider Jim Payne***: Post-flight pictures of the PRCubeStars CubeStat with Chief Pilot of the Perlan II Project glider Jim Payne. Today, **August 15th, 2017**, our CubeStat was in the cargo of the glider. Also, the glider was able to set a new altitude mark during this summer's flight campaing by reaching above 33,000 feet. As per Perlan II members, PRCubeStars CubeSat has been the highest among all CubeSats to date!. **(August, 15th, 2017)**
