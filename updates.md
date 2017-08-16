@@ -7,6 +7,11 @@ title: PRCubeStars News and Updates
 
 ## PRCubeStars News and Updates
 
+
+<img src="Images/PRCubeStar-CubeStar-ChiefPilot2.jpg" alt="hi" class="inline"/> 
+***PRCubeStars CubeSat with Chief Pilot of Perlan II glider Jim Payne***: Post-flight pictures of the PRCubeStars CubeStat with Chief Pilot of the Perlan II Project glider Jim Payne. Today, **August 15th, 2017**, our CubeStat was in the cargo of the glider. Also, the glider was able to set a new altitude mark during this summer's flight campaing by reaching above 33,000 feet. As per Perlan II members, PRCubeStars CubeSat has been the highest among all CubeSats to date!. **(August, 15th, 2017)**
+
+
 <img src="Images/CubeSatIsOn-Calafate.jpg" alt="hi" class="inline"/>
 ***PRCubeStars' CubeSat is charged***: The CubeSat from PRCubeStars has been charged, and will be in the cargo of upcoming flights of the Perlan II glider. (August 8th, 2017)
 
