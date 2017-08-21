@@ -7,6 +7,9 @@ title: PRCubeStars News and Updates
 
 ## PRCubeStars News and Updates
 
+<img src="Images/PerlanTeam.jpg" alt="hi" class="inline"/> 
+***The Perlan Project Team***: Find above colleagues of the Perlan Project team. At the moment of posting this picture, they are currently in the city of Calafate, in the south region of Argentina, carrying out flights with the Perlan II glider. **(August 20th, 2017)**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/07enO0GLpBI" frameborder="0" allowfullscreen></iframe>
 ***PRCubeStars made history during the August 15th, 2017 Perlan II flight***: The August 15th, 2017 flight of the Perlan II glider was a historic one for the PRCubeStars team: our nanosatellite (CubeSat) was able to sample air above 33,000 feet of altitude while in extreme conditions (-58ºF), the coding of the arduino executed accordingly, the valve was able to change sampling angles as instructed by the code, and the altimeter was able to record sampling altitudes. Soon we will be receiving our sample collectors and implement microbiological techniques to detect fungal spores in the stratospheric samples.  
 
