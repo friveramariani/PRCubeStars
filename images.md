@@ -9,7 +9,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/ParqueDeLasCiencias.jpg" alt="hi" class="inline"/> 
-***PRCubeStars' Students at "El Parque de las Ciencias" (The Sciences Park)***: Students of PRCubeStars at “El Parque de las Ciencias” (The Sciences Park), in Bayamon, PR, sharing with the public their knowledge about nanosatellites (CubeSats) and talking about our team’s projects and updates. El Parque de las Ciencias is one of Puerto Rico’s main attractions, in which the public can learn about different science topics(find information [here](https://es-la.facebook.com/pdlcb/)). **(August 6th, 2017)**
+***PRCubeStars' Students at "El Parque de las Ciencias" (The Sciences Park)***: Students of PRCubeStars at “El Parque de las Ciencias” (The Sciences Park), in Bayamon, PR, sharing with the public their knowledge about nanosatellites (CubeSats) and talking about our team’s projects and updates. El Parque de las Ciencias is one of Puerto Rico’s main attractions, in which the public can learn about different science topics(find information [here](https://es-la.facebook.com/pdlcb/). **(August 6th, 2017)**
 
 
 <img src="Images/Dariel-Graduation.jpg" alt="hi" class="inline"/> 
