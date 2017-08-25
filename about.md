@@ -37,7 +37,7 @@ title: Who Are PRCubeStars?
   
 
 <img src="Images/DaronWestly.JPG" alt="hi" class="inline"/> 
-***Daron Westly***: *Mission Specialist of PRCubeStars*. Daron Westly is also an expert in nanotechnology with a B.S. in Electrical Engineering from University of South Florida and  and M.Eng. in Electrical Engineering from Cornell University. His research trajyectory has addressed the areas of x-ray zone plates, microfluidic cells, and electron beam lithography forin nanoscale fabrication. His involvement with the Makers Movement, fabrication experience, and programming expertise haves been fundamental for the PRCubeStars team. Daron is currently a research scientists at the [US National Institute of Standards and Technology](https://www.nist.gov/people/daron-westly). Daron is also a brave [marathon runner](http://www.marathonfoto.com/Proofs?PIN=E7V722&LastName=WESTLY).  
+***Daron Westly***: *Mission Specialist of PRCubeStars*.  Daron Westly is also an expert in nanotechnology with a B.S. in Electrical Engineering from University of South Florida and  M.Eng. in Electrical Engineering from Cornell University. His research trajectory has addressed the areas of x-ray zone plates, microfluidic cells, and electron beam lithography for nanoscale fabrication. His involvement with the Makers Movement, fabrication experience, and programming expertise have been fundamental for the PRCubeStars team. Daron is currently a research scientist at the [US National Institute of Standards and Technology](https://www.nist.gov/people/daron-westly). Daron is also a brave [marathon runner](http://www.marathonfoto.com/Proofs?PIN=E7V722&LastName=WESTLY).  
   
 
 <img src="Images/DamasoCardenalesColon.jpg" alt="hi" class="inline"/>   
