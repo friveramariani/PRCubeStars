@@ -1,5 +1,5 @@
 ---
-title: PRCubeStars News and Updates
+title: Welcome to the PRCubeStars News and Updates
 ---  
 
 
@@ -30,7 +30,7 @@ title: PRCubeStars News and Updates
 
 
 <img src="Images/30000ft.jpg" alt="hi" class="inline"/>
-***1st Perlan II flight: above 30000 feet***: **Perlan II flight**, in which for the first time this summer reaching above 30000 feet above sea level during a test flight. (August 1st, 2017)
+***1st Perlan II flight: above 30000 feet***: **Perlan II flight** reached above 30000 feet above sea level during a test flight. (August 1st, 2017)
 
 
 <iframe src="https://spark.adobe.com/video/Q5jORZtrP7Itx/embed"  width="560" height="315" frameborder="0" allowfullscreen></iframe> 
