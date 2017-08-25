@@ -9,7 +9,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/ParqueDeLasCiencias.jpg" alt="hi" class="inline"/> 
-***PRCubeStars' Students at "El Parque de las Ciencias" (The Sciences Park)***: Students of PRCubeStars at "El Parque de las Ciencias" (The Sciences Park), in Bayamon, PR, sharing with the public their knowledge about nanosatellites (CubeSats) and talking about our team's projects and updates. El Parque de las Ciencias is one of Puerto Rico's main attractions, in which the public can learn about difference fields and topics of sciences (find information [here](https://es-la.facebook.com/pdlcb/)). **(August 6th, 2017)**
+***PRCubeStars' Students at "El Parque de las Ciencias" (The Sciences Park)***: Students of PRCubeStars at “El Parque de las Ciencias” (The Sciences Park), in Bayamon, PR, sharing with the public their knowledge about nanosatellites (CubeSats) and talking about our team’s projects and updates. El Parque de las Ciencias is one of Puerto Rico’s main attractions, in which the public can learn about different science topics(find information [here](https://es-la.facebook.com/pdlcb/)). **(August 6th, 2017)**
 
 
 <img src="Images/Dariel-Graduation.jpg" alt="hi" class="inline"/> 
@@ -24,17 +24,17 @@ title: PRCubeStars Events
 
 
 <img src="Images/IMG-3060.JPG" alt="hi" class="inline"/>
-***Surprise Visit by Dr. Félix E. Rivera-Mariani***: Surprise visit by Dr. Félix E. Rivera-Marian to students of PRCubeStars. Dr. Rivera-Mariani is the Principal Investigator of the PRCubeStars (find more information [here](https://friveramariani.github.io/PRCubeStars/about)). In this image, captured by Mrs. Gina Martinez-Rivera (wife of Dr. Rivera-Mariani), students are testing the air pump and its synchronization with the progrmaming of the CubeSat's Arduino. **(April 15th, 2016)**
+***Surprise Visit by Dr. Félix E. Rivera-Mariani***: Surprise visit by Dr. Félix E. Rivera-Mariani to students of PRCubeStars. Dr. Rivera-Mariani is the Principal Investigator of the PRCubeStars (find more information [here](https://friveramariani.github.io/PRCubeStars/about)). In this image, captured by Mrs. Gina Martinez-Rivera (wife of Dr. Rivera-Mariani), students are testing the air pump and its synchronization with the programming of the CubeSat's Arduino. **(April 15th, 2016)**
 
 
 
 <img src="Images/IMG-3059.JPG" alt="hi" class="inline"/>
-***Surprise Visit by Dr. Félix E. Rivera-Mariani***: Surprise visit by Dr. Félix E. Rivera-Marian to PRCubeStars' students at the Thomas Armstrong Toro High School. From left to right, Dr. Rivera-Mariani, Diego Vázquez-Santos, Diamarys Salomé-Rivera, Mrs. Carmen Noble (Physics teacher at the Thomas Armstrong Toro High School and mentor of PRCubeStars), Crystal Pérez-Pi, Dariel Torres-Velázquez, and Dámaso Cardenales-Colón (mentor and computer specialist of PRCubeStars). **(April 15th, 2016)**
+***Surprise Visit by Dr. Félix E. Rivera-Mariani***: Surprise visit by Dr. Félix E. Rivera-Mariani to PRCubeStars' students at the Thomas Armstrong Toro High School. From left to right, Dr. Rivera-Mariani, Diego Vázquez-Santos, Diamarys Salomé-Rivera, Mrs. Carmen Noble (Physics teacher at the Thomas Armstrong Toro High School and mentor of PRCubeStars), Crystal Pérez-Pi, Dariel Torres-Velázquez, and Dámaso Cardenales-Colón (mentor and computer specialist of PRCubeStars). **(April 15th, 2016)**
 
 
 
 <img src="Images/Presentation-PRCubeStars-1.jpg" alt="hi" class="inline"/>
-***PRCubeStars' Students during the Arduino Day***: PRCubeStars' Students during a presentation during the Arduino Day at the University of Puerto Rico Mayagüez Campus. They shared with the audience, which included students, professors, computer science and engineering experts, as well as experts in the Makers movement, information about the PRCubeStar project. **(April 2nd, 2016)**
+***PRCubeStars' Students during the Arduino Day***: PRCubeStars’ Students during a presentation during the Arduino Day at the University of Puerto Rico Mayagüez Campus. They shared information about the PRCubeStars project with an audience, including students, professors, computer scientists, engineering experts, and members of the Maker movement. **(April 2nd, 2016)**
 
 
 
@@ -44,11 +44,11 @@ title: PRCubeStars Events
 
 
 <img src="Images/Yajaira-MarsAnalogMission.jpg" alt="hi" class="inline"/>
-***Dr. Yajaira Sierra Sastre in her Mars-Analog mission!***: In this image, we see PRCubeStars **mission director*** Dr. Sierra-Sastre during her participation in the 4-months long Mars-analog mission in the project HI-SEAS (acronym for Hawaii Space Exploration Analog and Simulation). This six-crew mission, into which 700 applications were submitted and Dr. Sierra-Sastre was the only Hispanic in the crew, addressed nutritional strategies for deep-space explorations (fotographic credit to Dr. Sian Proctor).
+***Dr. Yajaira Sierra Sastre in her Mars-Analog mission!***: Dr. Sierra-Sastre during her participation in the 4-months long Mars-analog mission, HI-SEAS (acronym for Hawaii Space Exploration Analog and Simulation). This six-crew mission, into which 700 applications were submitted and Dr. Sierra-Sastre was the only Hispanic in the crew, addressed nutritional strategies for deep-space explorations (photo credit: Dr. Sian Proctor).
 
 
 <img src="Images/Portada-PerlaDelSur.jpg" alt="hi" class="inline"/>
-***PRCubeStars' Students and Mentor (Mrs. Carmen Noble) on the cover page***. Very nice edition (March 30th, 2016) in [*La Perla Del Sur*](http://www.periodicolaperla.com/), which is a local newspaper in the city of Ponce, PR.  Ponce is where the Thomas Armstrong Toro, a Math and Sciences specialized high school, is located. From this school students and physics Mrs. Carmen Noble (also a mentor in PRCubeStars) were recruited to be part of the PRCubeStars team. **(March 30th, 2016)**
+***PRCubeStars' Students and Mentor (Mrs. Carmen Noble) on the cover page***. Very nice edition (March 30th, 2016) by [*La Perla Del Sur*](http://www.periodicolaperla.com/), which is a local newspaper in the city of Ponce, PR. Ponce is where the Thomas Armstrong Toro, a Math and Sciences specialized high school, is located. From this school, students and physics teacher Mrs. Carmen Noble were recruited to be part of the PRCubeStars team. **(March 30th, 2016)**
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
