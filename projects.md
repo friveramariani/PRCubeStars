@@ -19,7 +19,7 @@ Find below links to more information about CubeSats and fungal spores:
 ### Ongoing and recently-completed experiments
 
 - altimeter testing
-- sychronization of the altimeter and Arduino programming codes
+- synchronization of the altimeter and Arduino programming codes
 - volumetric sampling with the CubeSat (at 1L and 5L per minute)
 
 
