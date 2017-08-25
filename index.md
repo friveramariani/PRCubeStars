@@ -29,7 +29,7 @@ You can also find information about...
 
 
 
-***We would like to the acknouwledge the contrubtions of***
+***We would like to acknouwledge the contrubtions of***
 
 <img src="Images/Acknowledgements.jpg" alt="hi" class="inline"/>
 
