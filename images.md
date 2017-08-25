@@ -9,7 +9,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/ParqueDeLasCiencias.jpg" alt="hi" class="inline"/> 
-***PRCubeStars' Students at "El Parque de las Ciencias" (The Sciences Park)***: Students of PRCubeStars at “El Parque de las Ciencias” (The Sciences Park), in Bayamon, PR, sharing with the public their knowledge about nanosatellites (CubeSats) and talking about our team’s projects and updates. El Parque de las Ciencias is one of Puerto Rico’s main attractions, in which the public can learn about different science topics(find information [here](https://es-la.facebook.com/pdlcb/). **(August 6th, 2017)**
+***PRCubeStars' Students at "El Parque de las Ciencias" (The Sciences Park)***: Students of PRCubeStars at “El Parque de las Ciencias” (The Sciences Park), in Bayamon, PR, sharing with the public their knowledge about nanosatellites (CubeSats) and talking about our team’s projects and updates. El Parque de las Ciencias is one of Puerto Rico’s main attractions, in which the public can learn about different science topics (find information [here](https://es-la.facebook.com/pdlcb/). **(August 6th, 2017)**
 
 
 <img src="Images/Dariel-Graduation.jpg" alt="hi" class="inline"/> 
@@ -18,7 +18,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/IMG-2166.JPG" alt="hi" class="inline"/>
-***Dr. Yajaira Sierra-Sastre with PRCubeStars' Students***: A visit by Dr. Yajaira Sierra-Sastre to PRCubeStars' students at the Thomas Armstrong Toro High School. Dra. Sierra-Sastre, Mission Director and one of our mentors in PRCubeStars, is an expert in nanotechnology, science communicator, and expert in Mars analog missions. From left to right, students of PRCubeStars (Diego Vázquez-Santos, Dariel Torres-Velázquez, Diamarys Salomé-Rivera, Crystal Pérez-Pi), Dr. Sierra-Sastre, Mrs. Carmen Noble (one of PRCubeStars' mentors and Physics Teacher at the Thomas Armstrong Toro High School), and Dámaso Cardenales-Colón (one of the mentors and computer specialists of PRCubeStars). **(June 25th, 2016)**
+***Dr. Yajaira Sierra-Sastre with PRCubeStars' Students***: A visit by Dr. Yajaira Sierra-Sastre to PRCubeStars' students at the Thomas Armstrong Toro High School. Dra. Sierra-Sastre, Mission Director and one of our mentors in PRCubeStars, is an expert in nanotechnology, science communicator, and Mars analog missions. From left to right, students of PRCubeStars (Diego Vázquez-Santos, Dariel Torres-Velázquez, Diamarys Salomé-Rivera, Crystal Pérez-Pi), Dr. Sierra-Sastre, Mrs. Carmen Noble, and Dámaso Cardenales-Colón. **(June 25th, 2016)**
 
 
 
@@ -29,7 +29,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/IMG-3059.JPG" alt="hi" class="inline"/>
-***Surprise Visit by Dr. Félix E. Rivera-Mariani***: Surprise visit by Dr. Félix E. Rivera-Mariani to PRCubeStars' students at the Thomas Armstrong Toro High School. From left to right, Dr. Rivera-Mariani, Diego Vázquez-Santos, Diamarys Salomé-Rivera, Mrs. Carmen Noble (Physics teacher at the Thomas Armstrong Toro High School and mentor of PRCubeStars), Crystal Pérez-Pi, Dariel Torres-Velázquez, and Dámaso Cardenales-Colón (mentor and computer specialist of PRCubeStars). **(April 15th, 2016)**
+***Surprise Visit by Dr. Félix E. Rivera-Mariani***: Surprise visit by Dr. Félix E. Rivera-Mariani to PRCubeStars' students at the Thomas Armstrong Toro High School. From left to right, Dr. Rivera-Mariani, Diego Vázquez-Santos, Diamarys Salomé-Rivera, Mrs. Carmen Noble, Crystal Pérez-Pi, Dariel Torres-Velázquez, and Dámaso Cardenales-Colón. **(April 15th, 2016)**
 
 
 
@@ -39,7 +39,7 @@ title: PRCubeStars Events
 
 
 <img src="Images/StudentsWorking1.jpg" alt="hi" class="inline"/>
-***Students Working on the CubeSat and being Mentored by Damaso Cardenales-Colón***: Find above a photo collage of students and mentor working on assembling and programming the CubeSat. **A)** Students receiving different parts for assembly of the CubeSat; **B)** the student Dariel Torres-Velázquez working on the assembly of the CubeSat's box; **C** students (Dariel Torres-Velázquez, in yellow shirt, next to Crystal Pérez-Pi; Diego Vázquez-Santos, with grey jacket, next to Diamarys Salomé-Rivera) working on programming the Arduino of the CubeSat with mentor Damaso Cardenales-Colón. **D)** Diamarys and Dariel working on the assembly of our CubeSat, including the sample collector, the Arduino and sensors; **E)** the Arduino of our CubeSat. 
+***Students Working on the CubeSat and being Mentored by Damaso Cardenales-Colón***: Find above a photo collage of students and mentor (Dámaso Cardenales-Colón) working on assembling and programming the CubeSat. **A)** Students receiving different parts for assembly of the CubeSat; **B)** the student Dariel Torres-Velázquez working on the assembly of the CubeSat's box; **C** students (Dariel Torres-Velázquez, in yellow shirt, next to Crystal Pérez-Pi; Diego Vázquez-Santos, with grey jacket, next to Diamarys Salomé-Rivera) working on programming the Arduino of the CubeSat with mentor Damaso Cardenales-Colón. **D)** Diamarys and Dariel working on the assembly of our CubeSat, including the sample collector, the Arduino and sensors; **E)** the Arduino of our CubeSat. 
 
 
 
